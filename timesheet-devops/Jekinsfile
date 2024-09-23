@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Pulling from Git...'
                 git branch: 'master',
-                    url: 'https://github.com/hwafa/timesheetproject.git'
+                    url: 'https://github.com/mohamedachrefsamaali/ProjetDevOps.git'
             }
         }
 
